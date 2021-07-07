@@ -13,9 +13,7 @@ N/A
 - Course 4
 N/A
 **Hobbies:**
-
 I am _passionate about_: 
-
 - Thing 1
 Star Wars
 - Thing 2
