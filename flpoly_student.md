@@ -22,4 +22,9 @@ Video Games
 Computer Science
 ***
 
-> Last modified: 2021/07/07
+## Homework 2
+| **Prefix** | **Number** | _Name_ |Credits |
+|:------:|:------:|  :-------:  |:-------:|
+|  **COP**   |  **2073**  |   _Intro To Data Science_        | 3       |
+
+> Last modified: 2021/07/20
